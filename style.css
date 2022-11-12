@@ -14,7 +14,7 @@ html {
 
 :root {
   --primary-color: #000839;
-  --primary-shades: #00020b;
+  --primary-shades: #00355d;
   --para-color: #80849c;
   --helper-color: #1264fa;
   --white: #fff;
@@ -29,7 +29,7 @@ html {
   box-sizing: border-box;
 }
 body {
-  background-color: #080710;
+  background-color: #00355d;
 }
 .background {
   width: 430px;

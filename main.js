@@ -30,6 +30,7 @@ login_btn.addEventListener("click", function (e) {
     .then((userCredential) => {
       // Signed in
       const user = userCredential.user;
+      window.location = "./dashboard.html"
 
       console.log("user ==>", user)
       // ...
